@@ -17,3 +17,5 @@
     - 참고: https://lovit.github.io/nlp/2019/04/30/textrank/
     
 ## Abstractive Summarization
+* A Neural Attention Model for Abstractive Sentence Summarization(2015)
+    - https://arxiv.org/abs/1509.00685
