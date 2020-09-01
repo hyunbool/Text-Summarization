@@ -20,12 +20,15 @@
 
     
 ## Abstractive Summarization
-* A Neural Attention Model for Abstractive Sentence Summarization(2015)
+* A Neural Attention Model for Abstractive Sentence Summarization(2015) ✔️
     - https://arxiv.org/abs/1509.00685
+* Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond(2016) ✔️
+    - https://arxiv.org/abs/1602.06023
 * Fine-tune BERT for Extractive Summarization(2019)
     - https://arxiv.org/abs/1903.10318
 * A Deep Reinforced Model for Abstractive Summarization(2019)
     - https://arxiv.org/abs/1705.04304
+
 
 ## Evaluation
 * An Evaluation for Various Text Summarization Algorithms on Blog Summarization Dataset(2018)
