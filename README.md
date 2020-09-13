@@ -14,7 +14,7 @@
 * Extractive Summarization of Long Documents by Combining Global and Local Context(2019)
     - https://arxiv.org/abs/1909.08089
 ### Graph-based Model
-- TextRank: Bringing Order into Texts(2004)
+- TextRank: Bringing Order into Texts(2004) ✔️
     - https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf
     - 참고: https://lovit.github.io/nlp/2019/04/30/textrank/
 
