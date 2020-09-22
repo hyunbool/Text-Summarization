@@ -28,7 +28,7 @@
     - https://arxiv.org/abs/1509.00685
 * Abstractive Sentence Summarization with Attentive Recurrent Neural Networks(2017)
     - https://nlp.seas.harvard.edu/papers/naacl16_summary.pdf
-* A Deep Reinforced Model for Abstractive Summarization(2017)
+* A Deep Reinforced Model for Abstractive Summarization(2017) ✔️
     - https://arxiv.org/abs/1705.04304
 * Fine-tune BERT for Extractive Summarization(2019)
     - https://arxiv.org/abs/1903.10318
