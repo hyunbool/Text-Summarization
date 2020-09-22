@@ -32,6 +32,7 @@
     - https://arxiv.org/abs/1705.04304
 * Fine-tune BERT for Extractive Summarization(2019)
     - https://arxiv.org/abs/1903.10318
+* [Get To The Point: Summarization with Pointer-Generator Networks(2017)](https://arxiv.org/abs/1704.04368)
 
 
 ## Evaluation
