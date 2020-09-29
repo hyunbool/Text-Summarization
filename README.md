@@ -13,6 +13,7 @@
 ## Extractive Summarization
 * Extractive Summarization of Long Documents by Combining Global and Local Context(2019)
     - https://arxiv.org/abs/1909.08089
+* [Fine-tune BERT for Extractive Summarization(2019)](https://arxiv.org/abs/1903.10318)
 ### Graph-based Model
 - TextRank: Bringing Order into Texts(2004) ✔️
     - https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf
@@ -30,10 +31,9 @@
     - https://nlp.seas.harvard.edu/papers/naacl16_summary.pdf
 * A Deep Reinforced Model for Abstractive Summarization(2017) ✔️
     - https://arxiv.org/abs/1705.04304
-* Fine-tune BERT for Extractive Summarization(2019)
-    - https://arxiv.org/abs/1903.10318
 * [Get To The Point: Summarization with Pointer-Generator Networks(2017)](https://arxiv.org/abs/1704.04368)
-
+* [Text Summarization with Pretrained Encoders(2019)](https://arxiv.org/pdf/1908.08345.pdf)
+    - used BERT in Abstractive Summarization
 
 ## Evaluation
 * An Evaluation for Various Text Summarization Algorithms on Blog Summarization Dataset(2018)
