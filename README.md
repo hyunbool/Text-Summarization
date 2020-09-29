@@ -11,14 +11,19 @@
     - https://www.iaeme.com/MasterAdmin/uploadfolder/IJCET_09_02_007/IJCET_09_02_007.pdf
 
 ## Extractive Summarization
-* Extractive Summarization of Long Documents by Combining Global and Local Context(2019)
-    - https://arxiv.org/abs/1909.08089
-* [Fine-tune BERT for Extractive Summarization(2019)](https://arxiv.org/abs/1903.10318)
+
 ### Graph-based Model
 - TextRank: Bringing Order into Texts(2004) ✔️
     - https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf
     - 참고: https://lovit.github.io/nlp/2019/04/30/textrank/
+### Neural Network
+#### Reinforcement Learning
+* [Ranking Sentences for Extractive Summarization with Reinforcement Learning(2018)](https://arxiv.org/pdf/1802.08636.pdf)
 
+#### Encoder-Decoder Model
+* [SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents(2017)](https://arxiv.org/abs/1611.04230)
+* [Fine-tune BERT for Extractive Summarization(2019)](https://arxiv.org/abs/1903.10318)
+* [Extractive Summarization of Long Documents by Combining Global and Local Context(2019)](https://arxiv.org/abs/1909.08089)
     
 ## Abstractive Summarization
 ### Seq2Seq
