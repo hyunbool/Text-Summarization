@@ -28,19 +28,17 @@
     
 ## Abstractive Summarization
 ### Seq2Seq
-* Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond(2016) ✔️
-    - https://arxiv.org/abs/1602.06023
+
 ### Attention
-* A Neural Attention Model for Abstractive Sentence Summarization(2015) ✔️
-    - https://arxiv.org/abs/1509.00685
-* Abstractive Sentence Summarization with Attentive Recurrent Neural Networks(2017)
-    - https://nlp.seas.harvard.edu/papers/naacl16_summary.pdf
-* A Deep Reinforced Model for Abstractive Summarization(2017) ✔️
-    - https://arxiv.org/abs/1705.04304
-* [Get To The Point: Summarization with Pointer-Generator Networks(2017)](https://arxiv.org/abs/1704.04368)
+* [A Neural Attention Model for Abstractive Sentence Summarization(2015)](https://arxiv.org/abs/1509.00685) ✔️ 
+* [Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond(2016)](https://arxiv.org/abs/1602.06023) ✔️
+* [SummaRuNNer: A Recurrent Neural Network based Sequence Model for (Extractive Summarization of Documents(2016)](https://arxiv.org/abs/1611.04230)
+* [Abstractive Sentence Summarization with Attentive Recurrent Neural Networks(2017)](https://nlp.seas.harvard.edu/papers/naacl16_summary.pdf)
+* [A Deep Reinforced Model for Abstractive Summarization(2017)](https://arxiv.org/abs/1705.04304) ✔️
+* [Get To The Point: Summarization with Pointer-Generator Networks(2017)](https://arxiv.org/abs/1704.04368)  ✔️ 
 * [Deep Communicating Agents for Abstractive Summarization(2018)](https://www.aclweb.org/anthology/N18-1150.pdf)
 * [Bottom-Up Abstractive Summarization(2018)](https://arxiv.org/pdf/1808.10792.pdf)
-* [Text Summarization with Pretrained Encoders(2019)](https://arxiv.org/pdf/1908.08345.pdf)
+* [Text Summarization with Pretrained Encoders(2019)](https://arxiv.org/pdf/1908.08345.pdf)  ✔️ 
     - used BERT in Abstractive Summarization
 
 ## Evaluation
