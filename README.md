@@ -24,10 +24,10 @@
 * [CLASSIFY OR SELECT: NEURAL ARCHITECTURES FOR EXTRACTIVE DOCUMENT SUMMARIZATION(2015)](https://arxiv.org/pdf/1611.04244.pdf)
 
 #### Encoder-Decoder Model
-* [Neural Summarization by Extracting Sentences and Words(2016)](https://arxiv.org/abs/1603.07252)
-* [SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents(2017)](https://arxiv.org/abs/1611.04230)
-* [Neural Latent Extractive Document Summarization(2018)](https://www.aclweb.org/anthology/D18-1088.pdf)
-* [Fine-tune BERT for Extractive Summarization(2019)](https://arxiv.org/abs/1903.10318)
+* [Neural Summarization by Extracting Sentences and Words(2016)](https://arxiv.org/abs/1603.07252) 
+* [SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents(2017)](https://arxiv.org/abs/1611.04230) ✔️
+* [Neural Latent Extractive Document Summarization(2018)](https://www.aclweb.org/anthology/D18-1088.pdf) 
+* [Fine-tune BERT for Extractive Summarization(2019)](https://arxiv.org/abs/1903.10318) 
 * [Extractive Summarization of Long Documents by Combining Global and Local Context(2019)](https://arxiv.org/abs/1909.08089)
 
 
