@@ -53,3 +53,9 @@
 * An Evaluation for Various Text Summarization Algorithms on Blog Summarization Dataset(2018)
     - https://pdfs.semanticscholar.org/27a5/664e20cb3eb3e0503a9e5685075067e949a2.pdf
 * Automatic Evaluation of Summaries Using N-gram Co-Occurrence Statistics
+
+## Some other fields that could be helpful
+### Grammatical Error Correction(GEC)
+* [Improving grammatical error correction via pre-training a copy-augmented archi- tecture with unlabeled data(2019)](https://arxiv.org/abs/1903.00138)
+* [A Neural Grammatical Error Correction System Built On Better Pre-training and Sequential Transfer Learning(2019)](https://arxiv.org/abs/1907.01256)
+    - Kakao, 2019 ACL 2등
