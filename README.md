@@ -29,12 +29,14 @@
 * [Fine-tune BERT for Extractive Summarization(2019)](https://arxiv.org/abs/1903.10318) 
 * [Extractive Summarization of Long Documents by Combining Global and Local Context(2019)](https://arxiv.org/abs/1909.08089)
 
-
 #### Attention
 * [Neural Summarization by Extracting Sentences and Words(2016)](https://arxiv.org/abs/1603.07252) ✔️
     - 좀 더 하이브리드에 가까운 것 같다(Extractive -> 그것을 가지고 Abstractive) 
 * [AttSum: Joint Learning of Focusing and Summarization with Neural Attention(2016)](https://arxiv.org/abs/1604.00125)
 
+#### Transformer
+* [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension(2019)](https://arxiv.org/pdf/1910.13461.pdf)
+* [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization(2019)](https://arxiv.org/abs/1912.08777)  ✔️
 
 ## Abstractive Summarization
 ### Seq2Seq
