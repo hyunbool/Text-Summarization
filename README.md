@@ -34,10 +34,6 @@
     - 좀 더 하이브리드에 가까운 것 같다(Extractive -> 그것을 가지고 Abstractive) 
 * [AttSum: Joint Learning of Focusing and Summarization with Neural Attention(2016)](https://arxiv.org/abs/1604.00125)
 
-#### Transformer
-* [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension(2019)](https://arxiv.org/pdf/1910.13461.pdf)
-* [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization(2019)](https://arxiv.org/abs/1912.08777)  ✔️
-
 ## Abstractive Summarization
 ### Seq2Seq
 
@@ -49,8 +45,12 @@
 * [Get To The Point: Summarization with Pointer-Generator Networks(2017)](https://arxiv.org/abs/1704.04368)  ✔️ 
 * [Deep Communicating Agents for Abstractive Summarization(2018)](https://www.aclweb.org/anthology/N18-1150.pdf)
 * [Bottom-Up Abstractive Summarization(2018)](https://arxiv.org/pdf/1808.10792.pdf)
+
+#### Transformer
 * [Text Summarization with Pretrained Encoders(2019)](https://arxiv.org/pdf/1908.08345.pdf)  ✔️ 
     - used BERT in Abstractive Summarization
+* [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension(2019)](https://arxiv.org/pdf/1910.13461.pdf)
+* [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization(2019)](https://arxiv.org/abs/1912.08777)  ✔️
 
 ## Evaluation
 * An Evaluation for Various Text Summarization Algorithms on Blog Summarization Dataset(2018)
