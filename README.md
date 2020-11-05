@@ -49,7 +49,11 @@
 #### Transformer
 * [Text Summarization with Pretrained Encoders(2019)](https://arxiv.org/pdf/1908.08345.pdf)  ✔️ 
     - used BERT in Abstractive Summarization
-* [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension(2019)](https://arxiv.org/pdf/1910.13461.pdf)
+* [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension(2019)](https://arxiv.org/pdf/1910.13461.pdf) ✔️
+    * 201105
+        * BERT의 인코더와 GPT의 디코더를 합친 형태의 모델
+        * seq2seq denoising autoencoder 언어 모델이며, 1) noising function으로 text를 망가뜨리고, 2) 그걸 다시 원래 문장으로 만드는 과정을 학습하게 된다.
+        * text generation뿐만 아니라 comprehension에도 효과가 있어 다양한 nlp 분야의 sota 달성
 * [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization(2019)](https://arxiv.org/abs/1912.08777)  ✔️
 
 ## Evaluation
