@@ -59,6 +59,13 @@
     * 201110
         * Extractive(중요한 정보 뽑기) + Abstractive(wiki article 생성)
         * T-ED라는 트랜스포머에서 디코더만 취한 모델 구조 제안 -> 긴 시퀀스에 잘 작동
+        
+## Long Document Summarization
+* [A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents(2018)](https://www.aclweb.org/anthology/N18-2097.pdf)
+* [Deep Communicating Agents for Abstractive Summarization(2018)](https://www.aclweb.org/anthology/N18-1150/)
+* [Extractive Summarization of Long Documents by Combining Global and Local Context(2019)](https://www.aclweb.org/anthology/D19-1298.pdf) ✔️
+
+
 ## Evaluation
 * An Evaluation for Various Text Summarization Algorithms on Blog Summarization Dataset(2018)
     - https://pdfs.semanticscholar.org/27a5/664e20cb3eb3e0503a9e5685075067e949a2.pdf
@@ -69,3 +76,5 @@
 * [Improving grammatical error correction via pre-training a copy-augmented archi- tecture with unlabeled data(2019)](https://arxiv.org/abs/1903.00138)
 * [A Neural Grammatical Error Correction System Built On Better Pre-training and Sequential Transfer Learning(2019)](https://arxiv.org/abs/1907.01256)
     - Kakao, 2019 ACL 2등
+### Content Selection
+* [Exploring Content Selection in Summarization of Novel Chapters(2020)](https://arxiv.org/abs/2005.01840)
