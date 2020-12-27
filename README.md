@@ -68,7 +68,7 @@
         * text generation뿐만 아니라 comprehension에도 효과가 있어 다양한 nlp 분야의 sota 달성
 * [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization(2019)](https://arxiv.org/abs/1912.08777)  ✔️
 * [Big Bird: Transformers for Longer Sequences(2020)](https://papers.nips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf) ✔️
-    * PPT(https://github.com/hyunbool/Text-Summarization/blob/master/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5/bigbird.pdf)
+    * [PPT](https://github.com/hyunbool/Text-Summarization/blob/master/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5/bigbird.pdf)
 
 ## 6) Reinforcement Learning
 * [Better rewards yield better summaries: Learning to summarise without references(2019)](https://arxiv.org/pdf/1909.01214.pdf)
