@@ -1,14 +1,12 @@
 # Text-Summarization
 ## 1) Survey Papers
-* Text Summarization Techniques: A Brief Survey(2017)
-    - https://arxiv.org/pdf/1707.02268.pdf
-* A Survey on Methods of Abstractive Text Summarization(2014)
-    - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.679.2132&rep=rep1&type=pdf
-* Recent automatic text summarization techniques: a survey(2017)
-* METHODOLOGIES AND TECHNIQUES FOR TEXT SUMMARIZATION: A SURVEY(2020)
-    - http://www.jcreview.com/fulltext/197-1592984804.pdf
-* A SURVEY OF RECENT TECHNIQUES IN AUTOMATIC TEXT SUMMARIZATION(2018)
-    - https://www.iaeme.com/MasterAdmin/uploadfolder/IJCET_09_02_007/IJCET_09_02_007.pdf
+|Paper|Contents|
+|------------|--------------------|
+|[Text Summarization Techniques: A Brief Survey(2017)](https://arxiv.org/pdf/1707.02268.pdf)| |
+|[A Survey on Methods of Abstractive Text Summarization(2014)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.679.2132&rep=rep1&type=pdf)| |
+|Recent automatic text summarization techniques: a survey(2017)| |
+|[METHODOLOGIES AND TECHNIQUES FOR TEXT SUMMARIZATION: A SURVEY(2020)](http://www.jcreview.com/fulltext/197-1592984804.pdf)| |
+|[A SURVEY OF RECENT TECHNIQUES IN AUTOMATIC TEXT SUMMARIZATION(2018)](https://www.iaeme.com/MasterAdmin/uploadfolder/IJCET_09_02_007/IJCET_09_02_007.pdf)| |
 
 ## 2) Single Document Summarization
 ### (1) Extractive Summarization
@@ -75,6 +73,9 @@
 * [Fine-tuning language models from human preferences(2019)](https://arxiv.org/pdf/1909.08593.pdf)
 * [Learning to summarize from human feedback(2020)](https://arxiv.org/pdf/2009.01325.pdf)
 
+## 7) Metrics
+* CNN/Daily Mail: [Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond(2016)](https://arxiv.org/abs/1602.06023)
+    * with human ratings: [The price of debiasing automatic metrics in natural language evaluation(2018)](https://www.aclweb.org/anthology/P18-1060.pdf)
 ## 7) Evaluation
 * An Evaluation for Various Text Summarization Algorithms on Blog Summarization Dataset(2018)
     - https://pdfs.semanticscholar.org/27a5/664e20cb3eb3e0503a9e5685075067e949a2.pdf
