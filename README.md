@@ -15,9 +15,6 @@
     - https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf
     - 참고: https://lovit.github.io/nlp/2019/04/30/textrank/
 #### Neural Network
-##### Reinforcement Learning
-* [Ranking Sentences for Extractive Summarization with Reinforcement Learning(2018)](https://arxiv.org/pdf/1802.08636.pdf)
-
 ##### CNN
 * [CLASSIFY OR SELECT: NEURAL ARCHITECTURES FOR EXTRACTIVE DOCUMENT SUMMARIZATION(2015)](https://arxiv.org/pdf/1611.04244.pdf)
 
@@ -37,7 +34,6 @@
 * [A Neural Attention Model for Abstractive Sentence Summarization(2015)](https://arxiv.org/abs/1509.00685) ✔️ 
 * [Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond(2016)](https://arxiv.org/abs/1602.06023) ✔️
 * [Abstractive Sentence Summarization with Attentive Recurrent Neural Networks(2017)](https://nlp.seas.harvard.edu/papers/naacl16_summary.pdf)
-* [A Deep Reinforced Model for Abstractive Summarization(2017)](https://arxiv.org/abs/1705.04304) ✔️
 * [Get To The Point: Summarization with Pointer-Generator Networks(2017)](https://arxiv.org/abs/1704.04368)  ✔️ 
 * [Deep Communicating Agents for Abstractive Summarization(2018)](https://www.aclweb.org/anthology/N18-1150.pdf)
 * [Bottom-Up Abstractive Summarization(2018)](https://arxiv.org/pdf/1808.10792.pdf)
@@ -69,12 +65,14 @@
     * [PPT](https://github.com/hyunbool/Text-Summarization/blob/master/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5/bigbird.pdf)
 
 ## 6) Reinforcement Learning
-|Paper|Contents|
-|-----|--------|
-|[Reward Learning for Efficient Reinforcement Learning in Extractive Document Summarisation(2019)](https://www.ijcai.org/Proceedings/2019/0326.pdf)| |
-|[Better rewards yield better summaries: Learning to summarise without references(2019)](https://arxiv.org/pdf/1909.01214.pdf)| |
-|[Fine-tuning language models from human preferences(2019)](https://arxiv.org/pdf/1909.08593.pdf)| |
-|[Learning to summarize from human feedback(2020)](https://arxiv.org/pdf/2009.01325.pdf)| |
+|Paper|Contents|Check|
+|-----|--------|-----|
+|[A Deep Reinforced Model for Abstractive Summarization(2017)](https://arxiv.org/abs/1705.04304)| | ✔️ |
+|[Ranking Sentences for Extractive Summarization with Reinforcement Learning(2018)](https://arxiv.org/pdf/1802.08636.pdf)| | |
+|[Reward Learning for Efficient Reinforcement Learning in Extractive Document Summarisation(2019)](https://www.ijcai.org/Proceedings/2019/0326.pdf)| | |
+|[Better rewards yield better summaries: Learning to summarise without references(2019)](https://arxiv.org/pdf/1909.01214.pdf)| | |
+|[Fine-tuning language models from human preferences(2019)](https://arxiv.org/pdf/1909.08593.pdf)| | |
+|[Learning to summarize from human feedback(2020)](https://arxiv.org/pdf/2009.01325.pdf)| | ✔️ |
 
 ## 7) Metrics
 * CNN/Daily Mail: [Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond(2016)](https://arxiv.org/abs/1602.06023)
