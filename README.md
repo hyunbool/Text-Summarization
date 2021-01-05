@@ -69,9 +69,12 @@
     * [PPT](https://github.com/hyunbool/Text-Summarization/blob/master/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5/bigbird.pdf)
 
 ## 6) Reinforcement Learning
-* [Better rewards yield better summaries: Learning to summarise without references(2019)](https://arxiv.org/pdf/1909.01214.pdf)
-* [Fine-tuning language models from human preferences(2019)](https://arxiv.org/pdf/1909.08593.pdf)
-* [Learning to summarize from human feedback(2020)](https://arxiv.org/pdf/2009.01325.pdf)
+|Paper|Contents|
+|-----|--------|
+|[Reward Learning for Efficient Reinforcement Learning in Extractive Document Summarisation(2019)](https://www.ijcai.org/Proceedings/2019/0326.pdf)| |
+|[Better rewards yield better summaries: Learning to summarise without references(2019)](https://arxiv.org/pdf/1909.01214.pdf)| |
+|[Fine-tuning language models from human preferences(2019)](https://arxiv.org/pdf/1909.08593.pdf)| |
+|[Learning to summarize from human feedback(2020)](https://arxiv.org/pdf/2009.01325.pdf)| |
 
 ## 7) Metrics
 * CNN/Daily Mail: [Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond(2016)](https://arxiv.org/abs/1602.06023)
