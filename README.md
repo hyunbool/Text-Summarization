@@ -64,6 +64,9 @@
 |Paper|Summary|
 |-----|--------|
 |[**A Deep Reinforced Model for Abstractive Summarization(2017)**](https://arxiv.org/abs/1705.04304)| |
+|[Improving Abstraction in Text Summarization(2018)](https://www.aclweb.org/anthology/D18-1207.pdf)|- ML+RL ROUGE+Novel, with LM<br/>-꼭 읽어보기|
+|[Deep Communicating Agents for Abstractive Summarization(2018](https://www.aclweb.org/anthology/N18-1150.pdf)|- DCA<br/>-읽어보기|
+|[Ranking Sentences for Extractive Summarization with Reinforcement Learning(2018)](https://www.aclweb.org/anthology/N18-1158.pdf)| |
 |[Ranking Sentences for Extractive Summarization with Reinforcement Learning(2018)](https://arxiv.org/pdf/1802.08636.pdf)| |
 |[Reward Learning for Efficient Reinforcement Learning in Extractive Document Summarisation(2019)](https://www.ijcai.org/Proceedings/2019/0326.pdf)| |
 |[Better rewards yield better summaries: Learning to summarise without references(2019)](https://arxiv.org/pdf/1909.01214.pdf)| |
