@@ -26,6 +26,7 @@
 |[Neural Latent Extractive Document Summarization(2018)](https://www.aclweb.org/anthology/D18-1088.pdf)| |
 |[Fine-tune BERT for Extractive Summarization(2019)](https://arxiv.org/abs/1903.10318)| |
 |[Extractive Summarization of Long Documents by Combining Global and Local Context(2019)](https://arxiv.org/abs/1909.08089)| |
+|[Unsupervised Extractive Summarization by Pre-training Hierarchical Transformers(2020)](https://arxiv.org/abs/2010.08242)| |
 
 
 ### (2) Abstractive Summarization
