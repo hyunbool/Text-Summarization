@@ -15,6 +15,7 @@
 |Paper|Summary|Reference|
 |------------|--------------------|---|
 |[**TextRank: Bringing Order into Texts(2004)**](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)| | https://lovit.github.io/nlp/2019/04/30/textrank/|
+|[**Sentence Centrality Revisited for Unsupervised Summarization(2019)**](https://arxiv.org/pdf/1906.03508.pdf)|TextRank + BERT + Directed Graph|
 
 #### Neural Network
 |Paper|Summary|
