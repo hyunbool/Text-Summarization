@@ -76,11 +76,18 @@
 |[**Learning to summarize from human feedback(2020)**](https://arxiv.org/pdf/2009.01325.pdf)| |
 |[**The Summary Loop: Learning to Write Abstractive Summaries Without Examples(2020)**](https://www.aclweb.org/anthology/2020.acl-main.460.pdf)|1. key term 마스킹: M<br/>- 마스킹은 tf-idf 이용해 k개 단어<br/>2. 원문에 대해 summarizer 이용해 요약: S<br/>3. M과 S 이용해 coverage로 마스킹 된 문서에 key term 채우기: F<br/>4. 원문과 F 비교해 coverage score 비교<br/>5. 요약문에 대한 fluency score 계산<br/>- 언어 모델의 probability로 fluency 계산<br/>6. 점수들 가지고 summarizer optimization - 여기에서 RL 사용|
 
-## 7) Metrics
+## 7) Autoencoder
+|Paper|Summary|
+|-----|--------|
+|[SummAE: Zero-Shot Abstractive Text Summarization using Length-Agnostic Auto-Encoders(2019)](https://arxiv.org/abs/1910.00998)| |
+|[Sample Efficient Text Summarization Using a Single Pre-Trained Transformer(2019)](https://arxiv.org/abs/1905.08836)| |
+|[MeanSum: A Neural Model for Unsupervised Multi-document Abstractive Summarization(2019)](https://arxiv.org/abs/1810.05739)| |
+
+## 8) Metrics
 * CNN/Daily Mail: [Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond(2016)](https://arxiv.org/abs/1602.06023)
     * with human ratings: [The price of debiasing automatic metrics in natural language evaluation(2018)](https://www.aclweb.org/anthology/P18-1060.pdf)
     
-## 8) Evaluation
+## 9) Evaluation
 |Paper|Summary|
 |-----|--------|
 |[An Evaluation for Various Text Summarization Algorithms on Blog Summarization Dataset(2018)]( https://pdfs.semanticscholar.org/27a5/664e20cb3eb3e0503a9e5685075067e949a2.pdf)| |
