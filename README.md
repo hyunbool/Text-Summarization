@@ -17,6 +17,12 @@
 |[**TextRank: Bringing Order into Texts(2004)**](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)| | https://lovit.github.io/nlp/2019/04/30/textrank/|
 |[**Sentence Centrality Revisited for Unsupervised Summarization(2019)**](https://arxiv.org/pdf/1906.03508.pdf)|TextRank + BERT + Directed Graph|
 
+#### Autoencoder
+|Paper|Summary|Reference|
+|------------|--------------------|---|
+|[Recursive Autoencoders for ITG-based Translation(2013)](https://aclanthology.org/D13-1054.pdf)| |
+|[Extractive Summarization using Continuous Vector Space Models(2014)](https://aclanthology.org/W14-1504/)| |
+
 #### Neural Network
 |Paper|Summary|
 |------------|--------------------|
